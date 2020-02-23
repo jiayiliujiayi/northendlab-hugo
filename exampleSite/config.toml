@@ -1,10 +1,10 @@
-baseURL = "https://testhomepage.netlify.com/"
+baseURL = "https://testhomepagejliu.netlify.com/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "HOMEPAGE | Humans of Wuhan"
+title = ""
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
